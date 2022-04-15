@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @danavenm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Manikumar
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning R programming
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 You can reach me at danavenm@mail.gvsu.edu
 
 <!---
 danavenm/danavenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
